@@ -1,2 +1,2 @@
 # Maquetacion-I
-Ejercicios HTML, CSS, Flex. Bootstrap&amp;SASS
+Ejercicios HTML, CSS y Flex. Bootstrap&amp;SASS
