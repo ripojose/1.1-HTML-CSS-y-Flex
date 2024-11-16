@@ -95,3 +95,19 @@ h1 {
   }
 }
 
+@media all and (max-width: 600px) {
+  .articulos {
+    flex-direction: column;
+  }
+
+  .menu {
+    flex-direction: column;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .aside {
+    flex-direction: column;
+  }
+}
+
